@@ -23,9 +23,12 @@ We employed the following techniques to optimize our predictive models:
 
 By applying these techniques, we aimed to optimize our predictive models for the highest ROC score on the given dataset. The resulting predictions were saved in an output CSV file for further analysis.
 
+## Results
+The achieved ROC score for our optimized predictive models was **0.82258**.
+
+
 ## Code
 The programming for this assignment was done in Python. You can find the code in the `src/code.py` file.
-
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
