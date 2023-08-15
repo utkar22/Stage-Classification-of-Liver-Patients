@@ -1,15 +1,15 @@
 # Stage-Classification-of-Liver-Patients
 Our objective in this mini-project is to explore various machine learning models and techniques to achieve optimal results in terms of Receiver Operating Characteristic (ROC) score, in regards to classifying the stage of liver patients.
 
-**Contributors:**
-- Akshita Gupta - 2020491
-- Ayush Raje Chak - 2020502
-- Utkarsh Arora - 2020143
+## Contributors
+- Akshita Gupta
+- Ayush Raje Chak
+- Utkarsh Arora
 
-**Objective:**
+## Objective
 Our goal is to implement advanced machine learning techniques to maximize the ROC score to analyse the stage of liver patients.
 
-**Approach:**
+## Approach
 We employed the following techniques to optimize our predictive models:
 
 1. **Recursive Feature Elimination (RFE):**
@@ -23,5 +23,5 @@ We employed the following techniques to optimize our predictive models:
 
 By applying these techniques, we aimed to optimize our predictive models for the highest ROC score on the given dataset. The resulting predictions were saved in an output CSV file for further analysis.
 
-**License:**
+## License
 This project is licensed under the [MIT License](LICENSE).
