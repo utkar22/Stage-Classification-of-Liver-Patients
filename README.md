@@ -1,11 +1,6 @@
 # Stage-Classification-of-Liver-Patients
 Our objective in this mini-project is to explore various machine learning models and techniques to achieve optimal results in terms of Receiver Operating Characteristic (ROC) score, in regards to classifying the stage of liver patients.
 
-## Contributors
-- Akshita Gupta
-- Ayush Raje Chak
-- Utkarsh Arora
-
 ## Objective
 Our goal is to implement advanced machine learning techniques to maximize the ROC score to analyse the stage of liver patients.
 
